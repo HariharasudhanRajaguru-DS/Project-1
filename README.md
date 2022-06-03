@@ -18,5 +18,18 @@ Therefore, if we can determine if the first stage will land, we can determine th
 
 ### Data collection
 
+Data collection methodology:
+1. SpaceX rest API
+2. Web scrapping from Wikipedia 
+
+### Perform data wrangling
+For Machine learning used one hot encoding and dropped irrelevant columns 
+
+### Perform exploratory data analysis (EDA) using visualization and SQL
+Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships between the independent and the dependent variables
+Performing interactive visual analytics using Folium and Plotly Dash to find the successful landing sites and the key factors
+Perform predictive analysis using classification models
+How to build, tune, evaluate classification models
+
 
 
