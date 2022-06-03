@@ -19,7 +19,7 @@ Therefore, if we can determine if the first stage will land, we can determine th
 ### Data collection
 
 Data collection methodology:
-1. SpaceX rest API
+1. [SpaceX rest API](https://api.spacexdata.com/v4/rockets/)
 2. [Web scrapping from Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922) 
 
 Here I have collected data from the rest API as well as from the Wikipedia website.
