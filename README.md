@@ -30,9 +30,12 @@ Data collection methodology:
    [Data collection - Web scrapping Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/CapstoneProject_Web%20Scraping%20(1).ipynb)
 
 >I selected Space X Falcon 9 launch records only.
->>And column details are FlightNumber, Date,BoosterVersion, PayloadMass, Orbit, LaunchSite, Outcome, Flights, GridFins, Reused, Legs, LandingPad, Block, ReusedCount, Serial, Longitude, Latitude
 
 ### Data Wrangling
+
+The Pandas dataframe columns are FlightNumber, Date,BoosterVersion, PayloadMass, Orbit, LaunchSite, Outcome, Flights, GridFins, Reused, Legs, LandingPad, Block, ReusedCount, Serial, Longitude, Latitude
+
+I have calculated no of launches in each launch sites, no of occurences to each orbit, launch outcome to each orbit type and created a landing outcome calculated the success rate. 
 
 [Performing data wrangling -Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/Capstone_project-week1_Data%20Wrangling.ipynb)
 
