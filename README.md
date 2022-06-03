@@ -19,6 +19,7 @@ Therefore, if we can determine if the first stage will land, we can determine th
 ### Data collection
 
 Data collection methodology:
+
 1. [SpaceX rest API](https://api.spacexdata.com/v4/rockets/)
 
    We can collect the data in JSON file format with the help of libraries Pandas and Requests. We can nomalize(pd.json_normalize()) the data. 
