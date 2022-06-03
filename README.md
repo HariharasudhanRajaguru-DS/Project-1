@@ -1,4 +1,4 @@
-# Hariharasudhan-Rajaguru Data Scientist Portfolio
+# Data Scientist Portfolio
 
 ## Project 1: Space X Falcon 9 First Stage Landing Prediction
 
@@ -10,10 +10,10 @@ Therefore, if we can determine if the first stage will land, we can determine th
 
 ### Questions:
 
-What are the factors playing major role to safely launch the first stage successfully?
+1. What are the factors playing major role to safely launch the first stage successfully?
 
-Finding relationships with each variable for a successful landing?
+2. Finding relationships with each variable for a successful landing?
 
-What are the variable measures has to taken for a successful landing?
+3. What are the variable measures has to taken for a successful landing?
 
 
