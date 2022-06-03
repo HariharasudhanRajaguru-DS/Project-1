@@ -45,6 +45,9 @@ For Machine learning used one hot encoding and dropped irrelevant columns
 
 Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships between the independent and the dependent variables
 
+!()
+[Exploratory Data Analysis - Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/Capstone_project-week2-DataAnalysis_EDA_matplotlib.ipynb)
+
 ### Performing interactive visual analytics using Folium and Plotly Dash to find the successful landing sites and the key factors
 ###Perform predictive analysis using classification models
 How to build, tune, evaluate classification models
