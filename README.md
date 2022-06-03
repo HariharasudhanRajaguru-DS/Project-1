@@ -45,7 +45,14 @@ For Machine learning used one hot encoding and dropped irrelevant columns
 
 Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships between the independent and the dependent variables
 
-!()
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs%20LaunchSite.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs.%20PayloadMass.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20and%20Orbit%20type.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/Payload%20and%20Launch%20Site.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/Payload%20and%20Orbit%20type.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/launch%20success%20yearly%20trend.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/success%20rate%20of%20each%20orbit%20type.png)
+
 [Exploratory Data Analysis - Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/Capstone_project-week2-DataAnalysis_EDA_matplotlib.ipynb)
 
 ### Performing interactive visual analytics using Folium and Plotly Dash to find the successful landing sites and the key factors
