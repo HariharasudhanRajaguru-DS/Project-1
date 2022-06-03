@@ -23,7 +23,7 @@ Data collection methodology:
    We can collect the data in JSON file format with the help of libraries Pandas and Requests. We can nomalize(pd.json_normalize()) the data. 
    
 2.[Web scrapping from Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922) 
-   I have collected the data from wikipedia website then used BeautifulSoup(bs4) Parsed html and found the data table for the project. 
+  I have collected the data from wikipedia website then used BeautifulSoup(bs4) Parsed html and found the data table for the project. 
 
 Here I have collected data from the rest API as well as from the Wikipedia website.
 
