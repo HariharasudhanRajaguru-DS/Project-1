@@ -47,7 +47,7 @@ GEO It is a circular geosynchronous orbit 35,786 kilometres (22,236 miles) above
 PO It is one type of satellites in which a satellite passes above or nearly above both poles of the body being orbited (usually a planet such as the Earth
 
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/Orbit_image.png)
-### Performing data wrangling
+### [Performing data wrangling](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/Capstone_project-week1_Data%20Wrangling.ipynb)
 For Machine learning used one hot encoding and dropped irrelevant columns 
 
 
