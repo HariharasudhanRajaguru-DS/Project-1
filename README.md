@@ -21,13 +21,13 @@ Data collection methodology:
 
    I collected the data in JSON file format with the help of libraries Pandas and Requests. We can nomalize(pd.json_normalize()) the data.
    
-   [Link to the Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
+   [Data collection - API Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
    
 2.[Web scrapping from Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
    I have collected the data from wikipedia website then used BeautifulSoup(bs4) Parsed html and found the data table for the project.
    
-   [Link to the Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/CapstoneProject_Web%20Scraping%20(1).ipynb)
+   [Data collection - Web scrapping Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/CapstoneProject_Web%20Scraping%20(1).ipynb)
    
 
 ### Data Wrangling
