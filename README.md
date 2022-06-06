@@ -46,24 +46,41 @@ For Machine learning used one hot encoding and dropped irrelevant columns
 Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships between the independent and the dependent variables
 
 Analyzing the connection between FlightNumber vs LaunchSite
+
+
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs%20LaunchSite.png)
 
+
+
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs.%20PayloadMass.png)
+
+
 
 
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20and%20Orbit%20type.png)
 
 
+
+
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/Payload%20and%20Launch%20Site.png)
+
+
 
 
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/Payload%20and%20Orbit%20type.png)
 
 
+
+
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/launch%20success%20yearly%20trend.png)
 
 
+
+
+
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/success%20rate%20of%20each%20orbit%20type.png)
+
+
 
 
 
