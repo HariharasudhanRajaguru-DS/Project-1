@@ -50,7 +50,7 @@ Analyzing the connection between FlightNumber vs LaunchSite
 <img src="https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/LaunchSite%20vs%20FlightNumber.jpg" width="1000" height="600">
 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/LaunchSite%20vs%20FlightNumber.jpg)
+![](/images/LaunchSite%20vs%20FlightNumber.jpg)
 
 
 
