@@ -28,7 +28,7 @@ Therefore, if we can determine if the first stage will land, we can determine th
    
    [Data collection - Web scrapping Jupyter Notebook](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/CapstoneProject_Web%20Scraping%20(1).ipynb)
 
->I selected Space X Falcon 9 launch records only.
+I selected Space X Falcon 9 launch records only.
 
 ### Data Wrangling
 
