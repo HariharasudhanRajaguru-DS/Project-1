@@ -48,11 +48,11 @@ Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships
 Analyzing the connection between FlightNumber vs LaunchSite
 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs%20LaunchSite.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/LaunchSite%20vs%20FlightNumber.jpg)
 
 
 
-[](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs.%20PayloadMass.png)
+![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs.%20PayloadMass.png)
 
 
 
