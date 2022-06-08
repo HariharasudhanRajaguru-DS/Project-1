@@ -49,35 +49,25 @@ Analyzing the connection between FlightNumber vs LaunchSite
 
 ![](./images/FlightNumber%20vs%20LaunchSite.png)
 
-
-
-![](./images/FlightNumber%20vs.%20PayloadMass.png)
-
-
-
-
-![](./images/FlightNumber%20and%20Orbit%20type.png)
-
-
-
+From the above scatter plot we can clearly find CCAFS SLC 40 launching site has the highest no of launches, and	followed by KSC LC 39A, and followed by VAFBSLC	4E .
 
 ![](./images/Payload%20and%20Launch%20Site.png)
 
-
-
+From the above plot, we can find that CCAFS SLC 40 launching site has the flight’s payload mass has the highest of 15000.
 
 ![](./images/Payload%20and%20Orbit%20type.png)
 
-
-
+As you see that in the LEO orbit the Success appears related to the number of flights; on the other hand, there seems to be no relationship between flight numbers when in GTO orbit.
 
 ![](./images/launch%20success%20yearly%20trend.png)
 
-
-
+We can observe that the success rate since 2013 kept increasing till 2020.
 
 
 ![](./images/success%20rate%20of%20each%20orbit%20type.png)
+
+From the bar chart, we can find orbits GEO, HEO, SSO, ES-L1 has the Best Success Rate.
+
 
 
 
