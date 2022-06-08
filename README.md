@@ -47,34 +47,32 @@ Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships
 
 Analyzing the connection between FlightNumber vs LaunchSite
 
-<img src="https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/LaunchSite%20vs%20FlightNumber.jpg" width="1000" height="600">
-
 
 ![](/images/LaunchSite%20vs%20FlightNumber.jpg)
 
 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20vs.%20PayloadMass.png)
+![](/images/FlightNumber%20vs.%20PayloadMass.png)
 
 
 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/FlightNumber%20and%20Orbit%20type.png)
+![](/images/FlightNumber%20and%20Orbit%20type.png)
 
 
 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/Payload%20and%20Launch%20Site.png)
+![](/images/Payload%20and%20Launch%20Site.png)
 
 
 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/Payload%20and%20Orbit%20type.png)
+![](/images/Payload%20and%20Orbit%20type.png)
 
 
 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/launch%20success%20yearly%20trend.png)
+![](/images/launch%20success%20yearly%20trend.png)
 
 
 
