@@ -47,7 +47,7 @@ Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships
 Analyzing the connection between FlightNumber vs LaunchSite
 
 
-![](./images/LaunchSite%20vs%20FlightNumber.jpg)
+![](./images/FlightNumber%20vs%20LaunchSite.png)
 
 
 
