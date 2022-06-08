@@ -47,7 +47,7 @@ Plotting Scatter plots, Cat plots and Bar graphs to understand the relationships
 
 Analyzing the connection between FlightNumber vs LaunchSite
 
-<img src="https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/LaunchSite%20vs%20FlightNumber.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/LaunchSite%20vs%20FlightNumber.jpg" width="800" height="600">
 
 
 ![](https://github.com/HariharasudhanRajaguru-DS/Hariharasudhan-Rajaguru/blob/main/images/LaunchSite%20vs%20FlightNumber.jpg)
