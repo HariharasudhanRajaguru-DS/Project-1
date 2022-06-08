@@ -69,7 +69,7 @@ We can observe that the success rate since 2013 kept increasing till 2020.
 From the bar chart, we can find orbits GEO, HEO, SSO, ES-L1 has the Best Success Rate.
 
 
-### [Performing interactive visual analytics using Folium and Plotly Dash to find the successful landing sites and the key factors](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/CapstoneProject_week3-FoliumMap.ipynb)
+### [Performing interactive visual analytics using Folium](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/CapstoneProject_week3-FoliumMap.ipynb)
 
 1 . launch sites are in close proximity to equator to minimize fuel consumption by using Earth's ~ 30km/sec eastward spin to help spaceships get into orbit.
 
@@ -81,7 +81,21 @@ From the bar chart, we can find orbits GEO, HEO, SSO, ES-L1 has the Best Success
    
 3 . Launch sites are in close proximity to highways, which allows for easily transport required people and property. 
 
-4 . Launch sites are in close proximity to railways, which allows transport for heavy cargo. 5.Launch sites are not in close proximity to cities, which minimizes danger to population dense areas.
+4 . Launch sites are in close proximity to railways, which allows transport for heavy cargo. 
+
+5.Launch sites are not in close proximity to cities, which minimizes danger to population dense areas.
+
+### Plotly Dash findings 
+![](./images/Pie%20chart.png)
+
+By this pie chart, we can jump to the conclusion of KSC LC-39A has the highest success rate compared to other launch sites. 
+
+Different types of booster versions has been launched from this site.
+
+But the payload never exceeded 10000 kg.
+
+The small payload flights have the most successful launch rate than the high payload flights.
+
 
 ### Perform predictive analysis using classification models
 How to build, tune, evaluate classification models
