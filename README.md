@@ -1,6 +1,3 @@
-### Hariharasudhan Rajaguru - Data Scientist
-
-
 ### [Project 1: Space X Falcon 9 First Stage Landing Prediction](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-)
 We predicted the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars.
 Other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. 
