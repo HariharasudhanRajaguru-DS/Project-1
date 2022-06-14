@@ -68,17 +68,17 @@ From the bar chart, we can find orbits GEO, HEO, SSO, ES-L1 has the Best Success
 
 ### [Performing interactive visual analytics using Folium](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/CapstoneProject_week3-FoliumMap.ipynb)
 
-1 . launch sites are in close proximity to equator to minimize fuel consumption by using Earth's ~ 30km/sec eastward spin to help spaceships get into orbit.
+1.launch sites are in close proximity to equator to minimize fuel consumption by using Earth's ~ 30km/sec eastward spin to help spaceships get into orbit.
 
-2 . Launch sites are in close proximity to coastline so they can fly over the ocean during launch, for at least two safety reasons-- 
+2.Launch sites are in close proximity to coastline so they can fly over the ocean during launch, for at least two safety reasons-- 
 
-   (a) crew has option to abort launch and attempt water landing 
+ (a) crew has option to abort launch and attempt water landing 
    
-   (b) minimize people and property at risk from falling debris. 
+ (b) minimize people and property at risk from falling debris. 
    
-3 . Launch sites are in close proximity to highways, which allows for easily transport required people and property. 
+3.Launch sites are in close proximity to highways, which allows for easily transport required people and property. 
 
-4 . Launch sites are in close proximity to railways, which allows transport for heavy cargo. 
+4.Launch sites are in close proximity to railways, which allows transport for heavy cargo. 
 
 5.Launch sites are not in close proximity to cities, which minimizes danger to population dense areas.
 
